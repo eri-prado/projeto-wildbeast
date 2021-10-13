@@ -1,2 +1,2 @@
-# projeto-wildbeast
- project developed with CSS Grid Layout
+# wildbeast
+ project developed with HTML & CSS Grid Layout
