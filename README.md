@@ -1,3 +1,3 @@
 # wildbeast
  project developed with HTML & CSS Grid Layout.<br>
- see the link -> https://eri-prado.github.io/wildbeast/
+ see the project on the link -> https://eri-prado.github.io/wildbeast/
